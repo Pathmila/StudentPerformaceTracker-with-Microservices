@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-07-21T06:33:29.1796125Z"
+    }
+  },
+  "parameters": {
+    "StudentManagement20240721115741.resourceGroupLocation": {
+      "Name": "StudentManagement20240721115741.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "StudentManagementRG"
+    },
+    "apis1.resourceGroupLocation": {
+      "Name": "apis1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "eastus"
+    },
+    "StudentManagement20240721115741.resourceName": {
+      "Name": "StudentManagement20240721115741.resourceName",
+      "Type": null,
+      "Value": "StudentManagement20240721115741"
+    },
+    "StudentManagement20240721115741.resourceGroupName": {
+      "Name": "StudentManagement20240721115741.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "StudentManagementRG"
+    },
+    "StudentManagement20240721115741.subscriptionId": {
+      "Name": "StudentManagement20240721115741.subscriptionId",
+      "Type": "subscription",
+      "Value": "f5a99577-a923-4fc4-abeb-5792490e9a52"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f5a99577-a923-4fc4-abeb-5792490e9a52"
+    }
+  }
+}

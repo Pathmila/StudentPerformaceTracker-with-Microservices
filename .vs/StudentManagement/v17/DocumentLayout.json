@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\w2053395\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\controllers\\hourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\controllers\\hourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\models\\hours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\models\\hours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\calculateperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\calculateperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\calculateperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\calculateperformanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\calculateperformanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\calculateperformanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\studenthoursmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\studenthoursmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\models\\hours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\models\\hours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\helper\\hoursdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\helper\\hoursdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studenthoursmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DFE4BA-3FD2-4B89-B4CC-8584CB417854}|StudentHoursManagement\\StudentHoursManagement.csproj|solutionrelative:studenthoursmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\viewhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\viewhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studentmanagement\\helper\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\helper\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|c:\\c#\\w2053395\\studentmanagement\\studentmanagement\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C97D35-FDE6-4266-9378-A7C4BDB3814F}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|c:\\c#\\w2053395\\studentmanagement\\performancetrackerclient\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\viewhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\viewhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|C:\\C#\\w2053395\\StudentManagement\\performancetrackerclient\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F0C520-8BF6-43AC-B87A-BEF63AF07C4D}|PerformanceTrackerClient\\PerformanceTrackerClient.csproj|solutionrelative:performancetrackerclient\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\appsettings.json",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\appsettings.json",
+              "RelativeToolTip": "StudentHoursManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T09:23:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:30:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoursController.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Controllers\\HoursController.cs",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\Controllers\\HoursController.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Controllers\\HoursController.cs",
+              "RelativeToolTip": "StudentHoursManagement\\Controllers\\HoursController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowE8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:30:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hours.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Models\\Hours.cs",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\Models\\Hours.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Models\\Hours.cs",
+              "RelativeToolTip": "StudentHoursManagement\\Models\\Hours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:37:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\appsettings.Development.json",
+              "RelativeToolTip": "StudentHoursManagement\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T09:16:55.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatePerformanceForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:08:38.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatePerformanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\CalculatePerformanceForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\CalculatePerformanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:08:35.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatePerformanceForm.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\CalculatePerformanceForm.Designer.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\CalculatePerformanceForm.Designer.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\CalculatePerformanceForm.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:07:09.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentHoursManagement.http",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\StudentHoursManagement.http",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\StudentHoursManagement.http",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\StudentHoursManagement.http",
+              "RelativeToolTip": "StudentHoursManagement\\StudentHoursManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-05T09:21:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Program.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\Program.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Program.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:03:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoursDBContext.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Helper\\HoursDBContext.cs",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\Helper\\HoursDBContext.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Helper\\HoursDBContext.cs",
+              "RelativeToolTip": "StudentHoursManagement\\Helper\\HoursDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:17:38.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentHoursManagement\\Program.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentHoursManagement\\Program.cs",
+              "RelativeToolTip": "StudentHoursManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:16:59.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Helpers\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\Helpers\\ApiHelper.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Helpers\\ApiHelper.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\Helpers\\ApiHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:01:25.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewHoursForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\ViewHoursForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\ViewHoursForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\ViewHoursForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\ViewHoursForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:32:17.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hours.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Models\\Hours.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\Models\\Hours.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Models\\Hours.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\Models\\Hours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:11:43.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Students.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Models\\Students.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:35:11.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T15:37:07.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Helper\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Helper\\StudentDBContext.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\StudentManagement\\Helper\\StudentDBContext.cs",
+              "RelativeToolTip": "StudentManagement\\Helper\\StudentDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:36:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\Models\\Student.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\Models\\Student.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:13:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\SignUpForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:51:01.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\LoginForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\LoginForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:36:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\LoginForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\LoginForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:36:07.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddHoursForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\AddHoursForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\AddHoursForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\AddHoursForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\AddHoursForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:22:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\SignUpForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\SignUpForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:51:04.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddHoursForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\AddHoursForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\AddHoursForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\AddHoursForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\AddHoursForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:24:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\HomeForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\HomeForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\HomeForm.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\HomeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:33:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignUpForm.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.Designer.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\SignUpForm.Designer.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\SignUpForm.Designer.cs",
+              "RelativeToolTip": "PerformanceTrackerClient\\SignUpForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:51:00.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\HomeForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\HomeForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\HomeForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:33:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewHoursForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\ViewHoursForm.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackerClient\\ViewHoursForm.cs",
+              "ToolTip": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\ViewHoursForm.cs [Design]",
+              "RelativeToolTip": "PerformanceTrackerClient\\ViewHoursForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:32:14.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

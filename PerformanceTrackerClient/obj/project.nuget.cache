@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yycFRAdcNEU=",
+  "success": true,
+  "projectFilePath": "C:\\C#\\w2053395\\StudentManagement\\PerformanceTrackerClient\\PerformanceTrackerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
